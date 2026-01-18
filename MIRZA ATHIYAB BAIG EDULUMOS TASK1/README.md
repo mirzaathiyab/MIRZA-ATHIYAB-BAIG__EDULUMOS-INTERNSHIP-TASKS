@@ -1,1 +1,2 @@
-
+# Predicting Student Academic Performance Using Regression
+Student performance is influenced by several academic and personal factors such as background, preparation level, and learning environment. In this project, we analyze student-related data and build a machine learning model that predicts overall exam performance. The objective is not only prediction, but also understanding how different factors contribute to student outcomes using a regression approach.

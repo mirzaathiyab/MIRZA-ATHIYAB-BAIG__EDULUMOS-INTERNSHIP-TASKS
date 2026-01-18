@@ -1,1 +1,2 @@
-
+# AI Health Analyst: Heart Disease Prediction
+Machine Learning can help in healthcare by predicting health risks early using patient data.In this project, I build a classification model to predict whether a person is likely to have heart disease based on medical attributes. I will train a Logistic Regression model and also test a Decision Tree model for comparison.The performance will be checked using accuracy and confusion matrix.
